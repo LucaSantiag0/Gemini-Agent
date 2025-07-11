@@ -1,6 +1,4 @@
-# NLW Agents
-
-Projeto desenvolvido durante um evento da Rocketseat para demonstrar o uso de agentes inteligentes na web.
+## Projeto com alvo em estudar o agent Gemini
 
 ## 🚀 Tecnologias
 
@@ -34,11 +32,13 @@ Projeto desenvolvido durante um evento da Rocketseat para demonstrar o uso de ag
 
 1. Clone o repositório
 2. Instale as dependências:
+
    ```bash
    npm install
    ```
 
 3. Execute o servidor de desenvolvimento:
+
    ```bash
    npm run dev
    ```
@@ -63,4 +63,4 @@ src/
 ├── pages/           # Páginas da aplicação
 ├── lib/             # Utilitários e configurações
 └── app.tsx          # Componente raiz
-``` 
+```
